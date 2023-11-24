@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming languages",
+    "home_page_url": "https://ivanespasandin15.github.io/Project-JSON-RSS/",
+    "feed_url": "https://ivanespasandin15.github.io/Project-JSON-RSS/feed/feed.json",
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is Python",
+            "url": "https://ivanespasandin15.github.io/Project-JSON-RSS/python.html"
+        },
+        {
+            "id": "1",
+            "content_html": "Thi is Java",
+            "url": "https://ivanespasandin15.github.io/Project-JSON-RSS/java.html"
+        }
+    ]
+}
